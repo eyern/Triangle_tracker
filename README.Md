@@ -10,7 +10,7 @@ one would require the following to access the website; laptop/pc/smartphone or a
 HTML
 CSS
 Bootstrap
-Jquery
+javascript
 ### Support
 for more information contact eyernfuture@gmail.com
 ## Copyright and License
