@@ -6,6 +6,8 @@ Triangle_tracker
 a website that will enable one to detect types of a triangle by entering the values of each side after which the application will provide the type of the triangle
 ### Set up instructions
 one would require the following to access the website; laptop/pc/smartphone or any PDA*internet
+## Link to live site on Github pages
+ https://eyern.github.io/Triangle_tracker/
 ## Technologies used
 HTML
 CSS
