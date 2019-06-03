@@ -1,5 +1,10 @@
 h1{
   color: #000000;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+}
+h2{
+  color: #000000;
 }
 body{
   background-color: lightblue;
